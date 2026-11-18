@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "private": true,
   "description": "Cek paket Diamond Ganda first recharge Mobile Legends",
-  "main": "local-server.js",
   "scripts": {
     "start": "node local-server.js",
     "cli": "node first_recharge.js"
