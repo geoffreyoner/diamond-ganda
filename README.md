@@ -9,7 +9,7 @@ Frontend statis + satu serverless function untuk Vercel.
 - `public/` — landing page, styles, dan script frontend
 - `api/check.js` — endpoint serverless `/api/check`
 - `first_recharge.js` — logic ambil data dari Mobapay + cache + retry
-- `server.js` — server lokal (tanpa dependency)
+- `local-server.js` — server lokal (tanpa dependency)
 - `rate_limit.js` — pembatas request per IP
 
 ## Jalankan lokal
